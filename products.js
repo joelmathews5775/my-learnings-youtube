@@ -681,7 +681,7 @@
     "keywords": [
       "umbrella",
       "travel",
-      "accessories",
+      "accessories"
     ]
   }, 
   {
@@ -696,7 +696,7 @@
     "keywords": [
       "bag",
       "laptops",
-      "multipurpose",
+      "multipurpose"
     ]
   }
 ]
